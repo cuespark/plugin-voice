@@ -1,13 +1,13 @@
 {
   "key": "voice",
   "name": "Voice",
-  "version": "0.1.0-alpha.1",
+  "version": "0.1.0-alpha.2",
   "description": "Voice commands, push-to-talk and live captions with local speech recognition.",
   "icon": "ri:mic-line",
   "entry": "dist/index.js",
   "dependencies": [],
-  "streamKitVersion": ">=0.1.0",
+  "streamKitVersion": ">=0.1.0-alpha.25",
   "updateManifestUrl": "https://raw.githubusercontent.com/stream-kit-app/plugin-voice/main/manifest.json",
-  "downloadUrl": "https://github.com/stream-kit-app/plugin-voice/releases/download/v0.1.0-alpha.1/plugin-voice.zip",
-  "sha256": "689dba4e328a1036e7410afcdabbcb3833942bfaab9ed9ccbafa1679c875e948"
+  "downloadUrl": "https://github.com/stream-kit-app/plugin-voice/releases/download/v0.1.0-alpha.2/plugin-voice.zip",
+  "sha256": "007d94f942586f120586af9567040350273b4eb0cf8efe285735b54ebb1bccd0"
 }
