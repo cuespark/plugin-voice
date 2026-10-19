@@ -9,5 +9,5 @@
   "streamKitVersion": ">=0.1.0",
   "updateManifestUrl": "https://raw.githubusercontent.com/stream-kit-app/plugin-voice/main/manifest.json",
   "downloadUrl": "https://github.com/stream-kit-app/plugin-voice/releases/download/v0.1.0-alpha.1/plugin-voice.zip",
-  "sha256": "8c7c73bfcd33120033cf2f96e9d788343ac4d753d53400179db85fc64c0eb8ac"
+  "sha256": "689dba4e328a1036e7410afcdabbcb3833942bfaab9ed9ccbafa1679c875e948"
 }
