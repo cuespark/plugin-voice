@@ -9,5 +9,5 @@
   "cuesparkVersion": ">=0.1.0",
   "updateManifestUrl": "https://raw.githubusercontent.com/cuespark/plugin-voice/main/manifest.json",
   "downloadUrl": "https://github.com/cuespark/plugin-voice/releases/download/v0.1.0-alpha.2/plugin-voice.zip",
-  "sha256": "133f533d1a958ddc2673d8ed8d3f30edf518878f90033bb1319a7660cc68358c"
+  "sha256": "ac971814fa25afe46309b82518c82a0a7ed324736eff75caa04f4aa38a8b7d9d"
 }
