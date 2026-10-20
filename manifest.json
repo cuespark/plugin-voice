@@ -6,8 +6,8 @@
   "icon": "ri:mic-line",
   "entry": "dist/index.js",
   "dependencies": [],
-  "streamKitVersion": ">=0.1.0-alpha.25",
-  "updateManifestUrl": "https://raw.githubusercontent.com/stream-kit-app/plugin-voice/main/manifest.json",
-  "downloadUrl": "https://github.com/stream-kit-app/plugin-voice/releases/download/v0.1.0-alpha.2/plugin-voice.zip",
-  "sha256": "007d94f942586f120586af9567040350273b4eb0cf8efe285735b54ebb1bccd0"
+  "cuesparkVersion": ">=0.1.0",
+  "updateManifestUrl": "https://raw.githubusercontent.com/cuespark/plugin-voice/main/manifest.json",
+  "downloadUrl": "https://github.com/cuespark/plugin-voice/releases/download/v0.1.0-alpha.2/plugin-voice.zip",
+  "sha256": "0ed87a5cfe7406ea246596c40a63cb51bf7dc3152116b93141aa4e11a01f320e"
 }
